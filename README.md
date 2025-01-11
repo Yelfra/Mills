@@ -16,3 +16,5 @@ Apart from the code, I've done the visuals myself. Using Aseprite, I've created 
 ## How to Use
 1. (Repository) Build and export the game. (Executable) Launch the game.
 2. Press play.
+
+![image](https://github.com/user-attachments/assets/cf34d4bf-e9ae-4eea-aca0-840da9dc9a68)
